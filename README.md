@@ -72,6 +72,6 @@ Bu projede, oyun geliştirme sürecine dair değerli içgörüler elde edilmesi 
 
 ## Kaggle Linki  
 
-[Steam Games Data Analysis on Kaggle](https://www.kaggle.com/datasets/mohamedtarek01234/steam-games-reviews-and-rankings](https://www.kaggle.com/code/batude/steam-games-data-analysis)  
+[Steam Games Data Analysis on Kaggle](https://www.kaggle.com/code/batude/steam-games-data-analysis)  
 
 **Not:** Bu proje, hem oyun geliştirme sürecine katkıda bulunmak hem de veri analizi alanında yetkinlik kazanmak için tasarlanmıştır.  
