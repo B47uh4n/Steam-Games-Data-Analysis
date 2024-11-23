@@ -21,13 +21,13 @@ Bu proje, Steam oyunlarına dair kapsamlı bir veri analizi çalışmasını iç
 
 | Sütun Adı                      | Veri Sayısı (Non-Null) | Veri Tipi  |  
 |--------------------------------|------------------------|------------|  
-| Ad                             | Tüm Satırlar           | Object     |  
-| Çıkış Tarihi                   | Tüm Satırlar           | Object     |  
-| Geliştirici                    | Çeşitli Eksikler Var   | Object     |  
-| Yayıncı                        | Çeşitli Eksikler Var   | Object     |  
-| Genel Puan (Sayı)              | Tüm Satırlar           | Float64    |  
-| Kullanıcı İnceleme Sayısı      | Tüm Satırlar           | Int64      |  
-
+| Ad                             | 637                    | Object     |  
+| Çıkış Tarihi                   | 634                    | Object     |  
+| Geliştirici                    | 636                    | Object     |  
+| Yayıncı                        | 643                    | Object     |  
+| Genel Puan (rank)              | 637                    | Float64    |  
+| Kullanıcı İnceleme Sayısı      | 641                    | Int64      |  
+**Veri tipi dagilimi:** `float64(1)`, `int64(1)`, `object(4)` 
 **Bellek Kullanımı:** ~3.9+ MB  
 
 ---
@@ -71,6 +71,6 @@ Bu projede, oyun geliştirme sürecine dair değerli içgörüler elde edilmesi 
 
 ## Kaggle Linki  
 
-[Steam Games Dataset on Kaggle](https://www.kaggle.com/datasets/mohamedtarek01234/steam-games-reviews-and-rankings)  
+[Steam Games Data Analysis on Kaggle]([https://www.kaggle.com/datasets/mohamedtarek01234/steam-games-reviews-and-rankings](https://www.kaggle.com/code/batude/steam-games-data-analysis))  
 
 **Not:** Bu proje, hem oyun geliştirme sürecine katkıda bulunmak hem de veri analizi alanında yetkinlik kazanmak için tasarlanmıştır.  
