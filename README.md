@@ -27,6 +27,7 @@ Bu proje, Steam oyunlarına dair kapsamlı bir veri analizi çalışmasını iç
 | Yayıncı                        | 643                    | Object     |  
 | Genel Puan (rank)              | 637                    | Float64    |  
 | Kullanıcı İnceleme Sayısı      | 641                    | Int64      |  
+
 **Veri tipi dagilimi:** `float64(1)`, `int64(1)`, `object(4)` 
 **Bellek Kullanımı:** ~3.9+ MB  
 
